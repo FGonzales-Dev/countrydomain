@@ -11,7 +11,7 @@ Data in this gem was taken from Github GIST and the following repos:
 
 Add this line to your application's Gemfile:
 
-    gem 'countrydomain', '~> 0.0.2'
+    gem 'countrydomain', '~> 0.0.3'
 
 And then execute:
 
